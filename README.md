@@ -26,3 +26,10 @@ __Technology Interests__: Computer Programming - Python, R, and SQL<br><br>
 
 __Intention of My Blog__: I'm learning a lot right now which often leads to more questions. I'm hoping to use this blog as place to share information and ideas to progress the data science and data engineering industry. <br><br>I'm also looking for a repository to store projects, show coding progression/proficiency, and collaborate with others on various projects related to data engineering and data science. 
 
+__To Do List__: A quick reference of things to do that pop into my head:<br><br>
+-[x] Update personal info on blog intro page<br>
+-[x] Complete Strong Skills Assessment<br>
+-[ ] Read Hadoop documentation<br>
+-[ ] Create separate page for grad school course descriptions and grades<br>
+-[ ] Complete virtual web server for live-streaming data pipeline project<br>
+-
