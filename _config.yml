@@ -1,16 +1,17 @@
-theme: jekyll-theme-minimal
-
-title: Josh's Data Science Blog and Portfolio.
-
-description: My data science grad school journey. Please Stay Tuned!
-
-avatar: https://github.com/joshbutch/Josh-Key-Info/blob/master/Josh%20professional%20photo.jpg
-
-plugins:
-  - jekyll-seo-tag
+site:
+    theme: jekyll-theme-minimal
+    title: Josh's Data Science Blog and Portfolio.
+    description: My data science grad school journey. Click the button to follow.
+    url: https://joshbutch.github.io
+    
+authors: 
+    Josh:
+        name: Josh Butch
+        intro: Data Science/Engineering Grad Student
+        avatar: https://i.imgur.com/vFHCxld.jpg    
 
 header-links:
-  email: jbutch@regis.edu
-  linkedin: https://www.linkedin.com/in/joshbutch/
+    email: jbutch@regis.edu
+    linkedin: https://www.linkedin.com/in/joshbutch/
   
 google-analytics: UA-116290644-1 
