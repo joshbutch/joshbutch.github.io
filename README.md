@@ -30,6 +30,10 @@ __To Do List__: A quick reference of things to do that pop into my head:<br><br>
 -[x] Update personal info on blog intro page<br>
 -[x] Complete Strong Skills Assessment<br>
 -[ ] Read Hadoop documentation<br>
+-[_] Document setup of remote virtual cluster<br>
 -[ ] Create separate page for grad school course descriptions and grades<br>
--[ ] Complete virtual web server for live-streaming data pipeline project<br>
--
+-[ ] Complete virtual web server for live-streaming data pipeline project<br><br>
+
+
+
+
