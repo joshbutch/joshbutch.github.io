@@ -1,3 +1,7 @@
+---
+
+---
+
 ## Overview of my remote Hadoop VC (virtual cluster) with Ambari and Vagrant
 
 The first couple of courses in the data science program focus on getting a Hadoop VC running on your local machine to start learning MapReduce, Hbase, Spark, etc. Unfortunately, I don't own a computer with the proper hardware resources to handle more than one virtual machine without crashing. 
