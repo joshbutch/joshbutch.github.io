@@ -8,6 +8,7 @@
 
   gtag('config', 'UA-116290644-1');
 </script>
+{% seo %}
 </HEAD>
 
 __About Me__: I'm currently a graduate student in Denver, CO at Regis University. The program is a master's of science in data science. My current focus is on data engineering, as the more I learn about it the more intrigued I become with the technology. I have about a year to go with an anticipated graduation date in May/June 2019.
