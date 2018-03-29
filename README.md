@@ -10,8 +10,6 @@
 </script>
 </HEAD>
 
-## Josh's Data Science Blog and Portfolio
-
 __About Me__: I'm currently a graduate student in Denver, CO at Regis University. The program is a master's of science in data science. My current focus is on data engineering, as the more I learn about it the more intrigued I become with the technology. I have about a year to go with an anticipated graduation date in May/June 2019.
 
 I've always been interested in technology, ever since I was a young kid taking apart my electronic toys and not being able to put them back together (at least without a few "spare" parts.) I like understanding how things work at the deepest level I can comprehend. I enjoy reading but don't really do it for leisure - I read to learn.
