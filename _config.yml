@@ -9,7 +9,7 @@ avatar: https://github.com/joshbutch/Josh-Key-Info/blob/master/Josh%20profession
 plugins:
   - jekyll-seo-tag
 
-footer-links:
+header-links:
   email: jbutch@regis.edu
   linkedin: https://www.linkedin.com/in/joshbutch/
   
