@@ -1,8 +1,6 @@
-site:
-    theme: jekyll-theme-minimal
-    title: Josh's Data Science Blog and Portfolio.
-    description: My data science grad school journey. Click the button to follow.
-    url: https://joshbutch.github.io
+theme: jekyll-theme-slate
+title: Josh's Data Science Blog and Portfolio.
+description: My data science grad school journey. Click the button to follow.
     
 authors: 
     Josh:
