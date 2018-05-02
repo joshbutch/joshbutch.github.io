@@ -17,14 +17,14 @@ I've always been interested in technology, ever since I was a young kid taking a
 I have a family and we enjoy spending time in the garden with our backyard chickens. We also like getting out to the mountains and Boulder to do hiking and skiing. 
 
 ***
-__Technology Interests__: Computer Programming - Python and R (when Python won't do)
-                          Tableau
-                          Jupyter Notebooks
-                          RStudio
-                          RapidMiner
-                          pandas
-                          MatPlotLib
-                          ggPlot2
+__Technology Interests__: <br><br>Computer Programming - Python and R (when Python won't do)<br>
+                          Tableau<br>
+                          Jupyter Notebooks<br>
+                          RStudio<br>
+                          RapidMiner<br>
+                          pandas<br>
+                          MatPlotLib<br>
+                          ggPlot2<br>
   
 ***
 __Intention of My Blog__: I'm learning a lot right now which often leads to more questions. I'm hoping to use this blog as place to share information and ideas to progress the data science and data engineering industry. <br><br>I'm also looking for a repository to store projects, show coding progression/proficiency, and collaborate with others on various projects related to data engineering and data science.
