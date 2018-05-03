@@ -22,7 +22,7 @@ I have a family and we enjoy spending time in the garden with our backyard chick
 
 ***
 __Technology Interests__: <br><br>Python - pandas, matplotlib, Seaborn, plotly, Bokeh<br>
-                          R - ggplot, ggplot2, Shiny, randomForest, plyr, stringr
+                          R - ggplot, ggplot2, Shiny, randomForest, plyr, stringr<br>
                           Tableau<br>
                           Jupyter Notebooks<br>
                           RStudio<br>
