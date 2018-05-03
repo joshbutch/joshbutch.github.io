@@ -21,13 +21,13 @@ I have a family and we enjoy spending time in the garden with our backyard chick
 <div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="horizontal" data-theme="dark" data-vanity="joshbutch"><a class="LI-simple-link" href='https://www.linkedin.com/in/joshbutch?trk=profile-badge'>Josh Butch</a></div>
 
 ***
-__Technology Interests__: <br><br>Computer Programming - Python and R (when Python won't do)<br>
+__Technology Interests__: <br><br>Python - matplotlib, Seaborn, plotly, Bokeh<br>
+                          R - ggplot, ggplot2, Shiny, randomForest, plyr, stringr
                           Tableau<br>
                           Jupyter Notebooks<br>
                           RStudio<br>
                           RapidMiner<br>
                           pandas<br>
-                          MatPlotLib<br>
                           ggPlot2<br>
   
 ***
