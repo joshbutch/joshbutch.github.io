@@ -21,15 +21,13 @@ I have a family and we enjoy spending time in the garden with our backyard chick
 <div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="horizontal" data-theme="dark" data-vanity="joshbutch"><a class="LI-simple-link" href='https://www.linkedin.com/in/joshbutch?trk=profile-badge'>Josh Butch</a></div>
 
 ***
-__Technology Interests__: <br><br>Python - matplotlib, Seaborn, plotly, Bokeh<br>
+__Technology Interests__: <br><br>Python - pandas, matplotlib, Seaborn, plotly, Bokeh<br>
                           R - ggplot, ggplot2, Shiny, randomForest, plyr, stringr
                           Tableau<br>
                           Jupyter Notebooks<br>
                           RStudio<br>
                           RapidMiner<br>
-                          pandas<br>
-                          ggPlot2<br>
-  
+                           
 ***
 __Intention of My Blog__: I'm learning a lot right now which often leads to more questions. I'm hoping to use this blog as place to share information and ideas to progress the data science and data engineering industry. <br><br>I'm also looking for a repository to store projects, show coding progression/proficiency, and collaborate with others on various projects related to data engineering and data science.
 
