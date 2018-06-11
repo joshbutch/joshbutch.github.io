@@ -31,9 +31,11 @@ __Intention of My Blog__: To track the progress of, and have dialogue about, my 
 ***
 ### Meet JANN (Josh's Artificial Neural Network)
 
-JANN will hopefully be my final practicum project for graduate degree. My goal is to build a deep learning neural network that will analyze real-time video for object detection and subsequent action. I feel there are applications for this technology in every industry. Computer vision is obviously a focus of the industry and also very interesting, so I feel this project will blend many of my data science aspirations. In the end, I hope to show enough proficiency and promise to warrant continued work in either academia or the private sector.
+JANN will hopefully be the final practicum project for my graduate degree.  My goal is to build a deep learning neural network that will analyze real-time video for object detection and subsequent action.  I feel there are applications for this technology in every industry.  Computer vision is obviously a focus of the industry and also something I find very interesting, so I feel this project will blend many of my data science aspirations.  In the end, I hope to show enough proficiency and promise to warrant continued work post graduation.
 
-There will be a few iterations of JANN as the positive image training set I plan on using to train the final version of JANN will need to be mined over the next few months, I'll get into that a little bit later. My first goal is to build a basic ann with OpenCV that will be trained to detect and count the loose change thrown into a frame. The newest version of OpenCV comes with a dnn package: deep neural networks. From what I've read so far this will be my starting point as soon as the project is approved.
+There will be a few iterations of JANN as the final positive image training set will need to be mined over the next few months.  I'm narrowing down JANN's final scope, but it's difficult for many reasons.  I haven't completely landed on the specific end task to be accomplished by JANN, as I imagine my faculty advisor will have input/requirements.  I do have some ideas about how to begin the project.
+
+My first goal is to build a basic neural network with OpenCV that will be trained to detect and count the loose change thrown into the video frame.  Once I manage to get that to work I will hopefully have worked through enough of the code to be able to apply it to subsequent training sets to broaden JANN's "vision".  The newest version of OpenCV comes with a dnn package: deep neural networks.  From what I've read so far this will be my starting point as soon as the project is approved.
 
 
 
