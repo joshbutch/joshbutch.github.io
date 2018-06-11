@@ -1,11 +1,11 @@
 theme: jekyll-theme-slate
 title: Josh's Data Science Blog and Portfolio.
-description: My data science grad school journey. Click the button to follow.
+description: My data science grad school journey.
     
 authors: 
     Josh:
         name: Josh Butch
-        intro: Data Science/Engineering Grad Student
+        intro: Data Science Grad Student
         avatar: https://i.imgur.com/vFHCxld.jpg    
 
 header-links:
