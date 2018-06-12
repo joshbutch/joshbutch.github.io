@@ -37,6 +37,10 @@ There will be a few iterations of JANN as the final positive image training set 
 
 My first goal is to build a basic neural network with OpenCV that will be trained to detect and count the loose change thrown into the video frame.  I chose this idea because it is relevant to multiple industries (gaming, transportation, etc.), it will only require a small positive training set, and I believe I will be able to easily mine a negative image training set because loose change is not prevalent in most pictures.  Once I manage to get that to work, I will hopefully have worked through enough of the code to be able to apply it to subsequent training sets to broaden JANN's "vision." Perhaps even open it up to additional currencies with an instant currency converter.  The newest version of OpenCV comes with a dnn package: deep neural networks.  From what I've read so far this will be my starting point as soon as the project is approved.
 
+```python
+print("Hello World, I'm JANN!")
+```
+
 
 
 
