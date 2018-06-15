@@ -41,7 +41,27 @@ My first goal is to build a basic neural network with OpenCV that will be traine
 print("Hello World, I'm JANN!")
 ```
 
+__So, what is an artificial neural networks?__
 
+Simply put, an artificial neural network is a statistical learning model roughly inspired by the neural networks of biological brains.  JANN will have artificial neurons that will take a video input (web cam), process the data using the mathematical function for each neuron based on our desired output (weighted computations), and produce an output.  The output will then be compared to the expected outcome based on the training data set and adjustments to the "weights."
 
+JANN is sounding pretty vague! My starting point is going to be image convolutions using OpenCV.  Once I understand how to prepare the images for the training set I can explore how to set up my deep learning architecture.  Topics to be covered in depth while building JANN (running list):
+
+* Deep Learning Neural Networks
+* Computer Vision
+* Image convolutions and edge detection
+* Input layer
+* Hidden layer(s) (multiple hidden layers for deep learning)
+* Output layer
+* Backpropogation
+* Supervised learning in object detection
+* Statistical classification model
+* Image data mining for training data sets
+* Positive training data set
+* Negative training data set
+* Loss Function
+* Philosophical thoughts, intuitions, and breakthroughs regarding JANN
+* Ethics of machine learning, potential for social good
+* Algorithmic selection and description
 
 
