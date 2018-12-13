@@ -1,4 +1,4 @@
-[Return HOME](readme.md)
+[Return HOME](https://joshbutch.github.io)
 
 <h1>Convolutional Neural Networks</h1>
 <h4>The power of convolution and the receptive field</h4>
@@ -46,4 +46,4 @@ http://www.cs.cmu.edu/~bhiksha/courses/deeplearning/Fall.2016/pdfs/Simard.pdf<br
 https://www.kdnuggets.com/2017/08/convolutional-neural-networks-image-recognition.html<br>
 https://techcrunch.com/2016/04/30/why-image-recognition-is-about-to-transform-business/<br>
 
-[Return HOME](readme.md)
+[Return HOME](https://joshbutch.github.io)
