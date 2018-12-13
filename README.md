@@ -12,7 +12,7 @@
 
 LinkedIn | This is Josh
 ------------ | -------------
-[Josh's LinkedIn(https://www.linkedin.com/in/joshbutch/) | ![Imgur](https://i.imgur.com/J3e3ldPb.jpg)
+[Josh's LinkedIn](https://www.linkedin.com/in/joshbutch/) | ![Imgur](https://i.imgur.com/J3e3ldPb.jpg)
 
 <h3>Regis University Data Science Practicum I</h3>
 <h5>Proposed Topic (not approved):  Object detection and classification with Convolutional Neural Networks (CNN)</h5>
