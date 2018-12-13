@@ -12,21 +12,15 @@
 
 <script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
 
-__My School__: I'm currently a graduate student in Denver, CO at Regis University. The program is a master's of science in data science, and I would highly recommend this program to anyone considering a graduate degree in this field. The entire program - curriculum, professors, support staff - have all exceeded my expectations. 
-
 <div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="horizontal" data-theme="dark" data-vanity="joshbutch"><a class="LI-simple-link" href='https://www.linkedin.com/in/joshbutch?trk=profile-badge'>Josh Butch</a></div>
 
-***
-__Technology Interests__: <br><br>Artificial Neural Networks, Deep Learning, Computer Vision, Streaming Video Analysis<br>
-                          Python - pandas, matplotlib, OpenCV, plotly, Bokeh - Jupyter Notebooks<br>
-                          R - ggplot2, caret, randomForest, plyr, stringr - RStudio<br>
-                          Tableau<br>
-                          RapidMiner<br>
-                           
-***
-__Intention of My Blog__: To track the progress of, and have dialogue about, my final practicum project due Aug. 2019.
+__Regis University Data Science Practicum I__<br>
+Proposed Topic (not approved):  Object detection and classification with Convolutional Neural Networks (CNN)<br>
+Due Date:  Summer I 2019 (May-July)<br>
+Practicum Advisor:  TBD<br>
 
-***
-##After beginning to realize the limitless potential data will begin to have on humanity I am carefully considering my final practicum project as a humanitarian endeavor.  If you want to get involved email: jbutch@regis.edu
+Overview:  Part one will develop and train a CNN to identify a particular set of brand logos from a live video feed.  Detection of an object by the CNN will display an appropriate advertisement on a display screen (a.k.a. billboard.)  A practical application for this technology is real-time target marketing in public places (i.e. bus stops, sporting events, concerts, busy shopping districts, etc.)  In part two of the practicum I will scale out my model to perform what I'm calling "passive-direct target marketing" (name is still under consideration.)<br>
+
+If you have any questions please email: jbutch@regis.edu
 
 
