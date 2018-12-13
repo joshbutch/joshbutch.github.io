@@ -1,3 +1,5 @@
+[Return HOME](readme.md)
+
 <h1>Convolutional Neural Networks</h1>
 <h4>The power of convolution and the receptive field</h4>
 
@@ -40,7 +42,8 @@ Image Ref: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS64F0nI7f9khak6
 An interesting concept to note, and one that greatly reduces computational load, is pooling.  The basic concept behind pooling is to take the outputs of multiple neurons or neuron clusters and feed those outputs into a single neuron at the next subsampling layer.  Another example of how the CNN use techniques to reduce the computational load for image recognition.  The pooling and overlapping receptive fields produce a fully-connected neural network allowing for large image processing at minimal computational load.
 
 <h5>References</h5>
-http://www.cs.cmu.edu/~bhiksha/courses/deeplearning/Fall.2016/pdfs/Simard.pdf
-https://www.kdnuggets.com/2017/08/convolutional-neural-networks-image-recognition.html
-https://techcrunch.com/2016/04/30/why-image-recognition-is-about-to-transform-business/
+http://www.cs.cmu.edu/~bhiksha/courses/deeplearning/Fall.2016/pdfs/Simard.pdf<br>
+https://www.kdnuggets.com/2017/08/convolutional-neural-networks-image-recognition.html<br>
+https://techcrunch.com/2016/04/30/why-image-recognition-is-about-to-transform-business/<br>
 
+[Return HOME](readme.md)
