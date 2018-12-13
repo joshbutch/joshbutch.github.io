@@ -1,15 +1,15 @@
 <h1>Convolutional Neural Networks</h1>
 <h4>The power of convolution and the receptive field</h4>
 
+![ImgDetection](https://recast.ai/blog/wp-content/uploads/2017/03/google-image-recognition-tech.jpg)
+
 <h5>Image recognition</h5>
 
-Image recognition as it relates to machine learning and this project is the capability of software and hardware to identify objects within
-an image.  This is usually accomplished by training a neural network with a particular set of images and then testing the accuracy of the 
-model with a test set (i.e. image data set, live/prerecorded video, etc.)  The potential for image recognition is vast with new applications being developed around the world across industies.<p>
+Image recognition as it relates to machine learning and this project is the capability of software and hardware to identify objects within an image.  This is usually accomplished by training a neural network with a particular set of images and then testing the accuracy of the model with a test set (i.e. image data set, live/prerecorded video, etc.)  The potential for image recognition is vast with new applications being developed around the world and across industries (Tech Crunch).<p>
 
-This image recognition project is about object detection within images.  The most basic idea of the first part of this project is to develop software that will utilize a camera feed to identify a very small set of images.  Upon detection of one of the trained images the software will respond with an appropriate image or video response on a display.  Think - ad on a digital billboard.  This technology has applicationsfrom target-marketing to public health and safety.<p>
+This image recognition project is about object detection within images.  The most basic idea of the first part of this project is to develop software that will utilize a camera feed to identify a very small set of images.  Upon detection of one of the trained images the software will respond with an appropriate image or video response on a display.  Think - ad on a digital billboard.  This technology has applications from target-marketing to public health and safety.<p>
 
-As popular as computer vision is right now, image recognition has had some significant hurdles to overcome.  The way a computer sees an image is as a series of pixels, each with a color code, not as an entire image.  This can put significant strain on computational resources. In standard artificial neural networks each neuron would process each pixel.  At small resolutionsthis wasn't a problem, but as images became larger, and in higher definition, the computational resources required grows exponentially and 
+As popular as computer vision is right now, image recognition has had some significant hurdles to overcome.  The way a computer sees an image is as a series of pixels, each with a color code, not as an entire image.  This can put significant strain on computational resources. In standard artificial neural networks each neuron would process each pixel.  At small resolutions this wasn't a problem, but as images became larger, and in higher definition, the computational resources required grows exponentially and 
 quickly becomes infeasible.  Enter the convolutional neural network.<p>
 
 <h5>Convolutional Neural Networks (CNN)</h5>
@@ -34,6 +34,13 @@ From left to right in the above image, you can observe:
 
 <h5>Pooling</h5>
 
+![Pooling Layer](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS64F0nI7f9khak62bZHU_Yg0JZMmPKs_OwMJBFYb1AcNB3xv46)<br>
+Image Ref: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS64F0nI7f9khak62bZHU_Yg0JZMmPKs_OwMJBFYb1AcNB3xv46
+
+An interesting concept to note, and one that greatly reduces computational load, is pooling.  The basic concept behind pooling is to take the outputs of multiple neurons or neuron clusters and feed those outputs into a single neuron at the next subsampling layer.  Another example of how the CNN use techniques to reduce the computational load for image recognition.  The pooling and overlapping receptive fields produce a fully-connected neural network allowing for large image processing at minimal computational load.
 
 <h5>References</h5>
+http://www.cs.cmu.edu/~bhiksha/courses/deeplearning/Fall.2016/pdfs/Simard.pdf
 https://www.kdnuggets.com/2017/08/convolutional-neural-networks-image-recognition.html
+https://techcrunch.com/2016/04/30/why-image-recognition-is-about-to-transform-business/
+
