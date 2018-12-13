@@ -12,7 +12,7 @@
 
 <script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script> 
 
-<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="horizontal" data-theme="dark" data-vanity="joshbutch"><a class="LI-simple-link" href='https://www.linkedin.com/in/joshbutch?trk=profile-badge'>Josh Butch</a></div>![Imgur](https://i.imgur.com/J3e3ldPm.jpg)
+<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="horizontal" data-theme="dark" data-vanity="joshbutch"><a class="LI-simple-link" href='https://www.linkedin.com/in/joshbutch?trk=profile-badge'>Josh Butch</a></div>![Imgur](https://i.imgur.com/J3e3ldPt.jpg)
 
 <h3>Regis University Data Science Practicum I</h3>
 <h5>Proposed Topic (not approved):  Object detection and classification with Convolutional Neural Networks (CNN)</h5>
