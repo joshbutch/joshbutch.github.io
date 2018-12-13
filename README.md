@@ -23,4 +23,9 @@ Overview:  Part one will develop and train a CNN to identify a particular set of
 
 If you have any questions please email: jbutch@regis.edu
 
+***
 
+[Convolutional Neural Networks](cnninfo.md)- 12.13.2018<br>
+  - A brief introduction to how CNNs work and why they're the preferred neural network for image recognition.
+  
+***
