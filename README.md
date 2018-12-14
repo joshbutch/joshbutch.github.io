@@ -23,7 +23,7 @@ LinkedIn | This is Josh
 
 __Overview:__  Part one will develop and train a CNN to identify a particular set of brand logos from a live video feed.  Detection of an object by the CNN will display an appropriate advertisement on a display screen (a.k.a. billboard.)  A practical application for this technology is real-time target marketing in public places (i.e. bus stops, sporting events, concerts, busy shopping districts, etc.)  In part two of the practicum I will scale out my model to perform what I'm calling "passive-direct target marketing" (name is still under consideration.)<br>
 
-If you have any questions please email: jbutch@regis.edu
+I want to help computers see the world as humans see it, and hopefully from that gain a deeper understanding of who we are through their "eyes" -  If you have any questions please email: jbutch@regis.edu or josh.butch@gmail.com
 
 ***
 
