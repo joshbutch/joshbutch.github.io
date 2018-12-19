@@ -32,7 +32,7 @@ I want to help computer artificial intelligence see the world as humans see it, 
   
 ***
 
-[How to Write a Function in Python](function.md) - 12.19.2018<br>
+[How to Write a Function in Python](functions.md) - 12.19.2018<br>
   - A helpful guide on best practices to follow when writing your own Python functions.
   
 ***
