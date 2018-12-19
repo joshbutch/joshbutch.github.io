@@ -64,7 +64,7 @@ Best practices for writing functions should at the minimum include the steps bel
 6.  Test
     - Save your function to a .py file (i.e. lbs_to_kg.py)
     - Load the file and restart your kernel to ensure the new function is loaded to Python.
-        - You can check this by typing help(lbs_to_kg) to make sure everything is working.
+        - You can check this by typing `help(lbs_to_kg)` to make sure everything is working.
     - Recreate the examples in the function help file `help(lbs_to_kg)` to ensure everything is working correctly.
     
 <h5>Here's what our completed function looks like:</h5><br>
