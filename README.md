@@ -31,3 +31,8 @@ I want to help computer artificial intelligence see the world as humans see it, 
   - A brief introduction to how CNNs work and why they're the preferred neural network for image recognition.
   
 ***
+
+[How to Write a Function in Python](function.md) - 12.19.2018<br>
+  - A helpful guide on best practices to follow when writing your own Python functions.
+  
+***
