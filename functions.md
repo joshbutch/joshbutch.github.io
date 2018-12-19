@@ -1,6 +1,8 @@
 <h1>How to Write a Function in Python3</h1>
 <h4>Best practices for writing your own functions</h4>
 
+![PythonLogo](https://www.python.org/static/opengraph-icon-200x200.png)
+
 <h5>What is a function?</h5>
 In Python, a function is a block of code that runs only when it's called.  This is referred to as a "function call."  Functions can be simple or complex, but regardless, you'll want to use functions as extensively as possible.  There's an unwritten rule among programmers that a function should be used anytime you'll type that same piece of code more than two times.  Write as many functions as possible, regardless of how trivial they may seem.
 
@@ -20,7 +22,7 @@ Best practices for writing functions should at the minimum include the steps bel
 2.  Create the type contract.
     - What are the parameter types used in your function (i.e. number, int, float, str, etc.)
     - Make sure to include the value returned.  Here is our type contract: (number) -> number
-    - This is what our function looks like so far (''' indicates block comment in Python):
+    - This is what our function looks like so far (''' indicates block comment in Python also called a docstring):
         - ''' (number) -> (number)<br><br>
         \>>> lbs_to_kg(2.2)<br>
         1<br>
