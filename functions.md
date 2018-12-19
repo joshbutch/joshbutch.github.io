@@ -1,3 +1,5 @@
+[Return HOME](https://joshbutch.github.io)
+
 <h1>How to Write a Function in Python3</h1>
 <h4>Best practices for writing your own functions</h4>
 
@@ -86,3 +88,5 @@ def lbs_to_kg(lbs)<br>
 Coursera Function Design Recipe - [Link](https://d18ky98rnyall9.cloudfront.net/_96168b6c868aaef1d7f57b6f4a7b0b03_designrecipe.html?Expires=1545264000&Signature=Ezo-CSNHqxbb8ZTV7ayNqkZzwBzqQHmGTLPhPi5eylik8mReyYhlk0MvNnSoF8kF5EOgTm8itHqZ~o9JNzczcHTqCi~45Dam8w5tYfvdPvnUUSETfCFoR~kt8HVWURqnnMWJnHDz9KIJovlQTbOI64oKG4s8Kfylsh-~WnlRIPo_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A)<br>
 University of Toronto Function Design - [Link](http://www.cs.toronto.edu/~ahchinaei/teaching/20165/csc148/function_design_recipe.pdf)<br>
 How to Think Like a Computer Scientist: Learning with Python - [Link](http://openbookproject.net/thinkcs/python/english2e/ch03.html)<br>
+
+[Return HOME](https://joshbutch.github.io)
