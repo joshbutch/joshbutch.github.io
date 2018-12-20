@@ -37,7 +37,7 @@ I want to help computer artificial intelligence see the world as humans see it, 
   
 ***
 
-[Jupyter Notebook: Generate a random dataset](randomdataset.ipynb) - 12.20.2018<br>
+[Jupyter Notebook: Generate a random dataset](randomdataset.html) - 12.20.2018<br>
   - Working Python code in Jupyter Notebook to create a basic (pseudo)random dataset.  This is a decent starting point to build more robust datasets for testing statistical models.
   
 ***
