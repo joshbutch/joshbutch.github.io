@@ -36,3 +36,8 @@ I want to help computer artificial intelligence see the world as humans see it, 
   - A helpful guide on best practices to follow when writing your own Python functions.
   
 ***
+
+[Jupyter Notebook: Generate a random dataset](randomdataset.ipynb) - 12.20.2018<br>
+  - Working Python code in Jupyter Notebook to create a basic (pseudo)random dataset.  This is a decent starting point to build more robust datasets for testing statistical models.
+  
+***
