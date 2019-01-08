@@ -41,3 +41,6 @@ I want to help computer artificial intelligence see the world as humans see it, 
   - Working Python code (converted from Jupyter Notebook to HTML) to create a basic (pseudo)random dataset (.ipynb file is on main Github repository.)  This is a decent starting point to build more robust datasets for testing statistical models.
   
 ***
+
+[Getting to Know Pandas](pandas.html) - 01.08.2019 (weekly ongoing updates)<br>
+  - Using Daniel Chen's "Pandas for Everyone" to work through data analysis exercises.  I plan to use this as a code snippet repository, reference for the future, and demonstration of my proficiency with the Pandas library.
