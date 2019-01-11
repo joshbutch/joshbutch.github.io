@@ -25,6 +25,8 @@ __Overview:__  Part one will develop and train a CNN to identify a particular se
 
 I want to help computer artificial intelligence see the world as humans see it, and hopefully from that gain a deeper understanding of who we are through their "eyes" -  If you have any questions please email: jbutch@regis.edu or josh.butch@gmail.com
 
+<h4>UPDATE 1/11/2019</h4><h5>I'm currently developing a Scrapy image scraper to begin to build my test/training dataset.  I'm currently working through some issues and do not have an ETA.  My Data Manipulation class begin on 1/15 so keep an eye out for posts about Pandas, data munging, and data modeling.</h5>
+
 ***
 
 [Convolutional Neural Networks](cnninfo.md) - 12.13.2018<br>
