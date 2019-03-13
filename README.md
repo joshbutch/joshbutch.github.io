@@ -17,15 +17,11 @@ LinkedIn | This is Josh
 [Josh's LinkedIn Profile](https://www.linkedin.com/in/joshbutch?trk=profile-badge) | ![Imgur](https://i.imgur.com/J3e3ldPb.jpg)
 
 <h3>Regis University Data Science Practicum I</h3>
-<h5>Proposed Topic (not approved):  Object detection and classification with Convolutional Neural Networks (CNN)</h5>
+<h5>Proposed Topic (not approved):  TBD</h5>
 <h5>Due Date:  Summer I 2019 (May-July)</h5>
 <h5>Practicum Advisor:  TBD</h5>
 
-__Overview:__  Part one will develop and train a CNN to identify a particular set of brand logos from a live video feed.  Detection of an object by the CNN will display an appropriate advertisement on a display screen (a.k.a. billboard.)  A practical application for this technology is real-time target marketing in public places (i.e. bus stops, sporting events, concerts, busy shopping districts, etc.)  In part two of the practicum I will scale out my model to perform what I'm calling "passive-direct target marketing" (name is still under consideration.)<br>
-
-I want to help computer artificial intelligence see the world as humans see it, and hopefully from that gain a deeper understanding of who we are through their "eyes" -  If you have any questions please email: jbutch@regis.edu or josh.butch@gmail.com
-
-<h4>UPDATE 1/11/2019</h4><h5>I'm currently developing a Scrapy image scraper to begin to build my test/training dataset.  I'm currently working through some issues and do not have an ETA.  My Data Manipulation class begin on 1/15 so keep an eye out for posts about Pandas, data munging, and data modeling.</h5>
+__Overview:__  Updates coming in May 2019.
 
 ***
 
@@ -44,5 +40,5 @@ I want to help computer artificial intelligence see the world as humans see it, 
   
 ***
 
-[Getting to Know Pandas](pandas.html) - 01.08.2019 (weekly ongoing updates)<br>
+[Getting to Know Pandas](pandas.html) - 01.08.2019<br>
   - Using Daniel Chen's "Pandas for Everyone" to work through data analysis exercises.  I plan to use this as a code snippet repository, reference for the future, and demonstration of my proficiency with the Pandas library.
