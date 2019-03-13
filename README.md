@@ -42,3 +42,9 @@ __Overview:__  Updates coming in May 2019.
 
 [Getting to Know Pandas](pandas.html) - 01.08.2019<br>
   - Using Daniel Chen's "Pandas for Everyone" to work through data analysis exercises.  I plan to use this as a code snippet repository, reference for the future, and demonstration of my proficiency with the Pandas library.
+
+***
+
+[Openstack Cloud Project](openstack.md) - Spring 2019<br>
+  - Setting up a proof-of-concept Openstack cloud for Regis University - College of Computer and Information Sciences (CC&IS) department using three used servers.  The goal is to secure funding for additional new hardware and eventually have a private cloud with large compute resources for student and department research projects.
+  
