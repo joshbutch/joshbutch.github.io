@@ -25,7 +25,7 @@ __Overview:__  A machine learning computer vision model to utilize retail video 
 
 __The Model:__ 
 
-[Customer Counter Notebook](CustomerCounterNotebook.ipynb)
+[Customer Counter Notebook](CustomerCounterNotebook.html)
   - The Jupyter Notebook outlining each section of code in my customer counter python file.
 
 __The Code:__ 
