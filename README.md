@@ -25,6 +25,14 @@ __Overview:__  A machine learning computer vision model to utilize retail video 
 
 __The Model:__ 
 
+__The Code:__ 
+
+[Still Image Object Detector](imageObjectDetector.py)
+  - The python code for a still image object detector.
+  
+[Customer Counter](customer_counter.py)
+  - The python code to count human objects crossing a line of demarcation.  Intended to count customers crossing a specific plane intended to replicate the entrance/exit of a retail store.
+
 ***
 
 [Convolutional Neural Networks](cnninfo.md) - 12.13.2018<br>
