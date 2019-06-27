@@ -17,11 +17,13 @@ LinkedIn | This is Josh
 [Josh's LinkedIn Profile](https://www.linkedin.com/in/joshbutch?trk=profile-badge) | ![Imgur](https://i.imgur.com/J3e3ldPb.jpg)
 
 <h3>Regis University Data Science Practicum I</h3>
-<h5>Proposed Topic (not approved):  TBD</h5>
-<h5>Due Date:  Summer I 2019 (May-July)</h5>
-<h5>Practicum Advisor:  TBD</h5>
+<h5>Proposed Topic:  Real-time Object Detection for Retail Business Intelligence</h5>
+<h5>Due Date:  Summer I 2019 (May-June)</h5>
+<h5>Practicum Advisor:  Aiman Gannous</h5>
 
-__Overview:__  Updates coming in May 2019.
+__Overview:__  A machine learning computer vision model to utilize retail video cameras to learn more about the shopping habits of customers.
+
+__The Model:__ 
 
 ***
 
